@@ -18,3 +18,5 @@
 6. GET product in data
 
 7. PUT update product
+
+8. Delete product
