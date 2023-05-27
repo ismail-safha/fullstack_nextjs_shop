@@ -1,3 +1,9 @@
+# ECommerce Website with Admin Dashboard :  Nextjs & mongoDb (not_completed)🌟
+
+<br />
+
+<h3 align="left">▶ Steps to Create</h3><br />
+
 1. admin authentication
 
    1. Login with google
